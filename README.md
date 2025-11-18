@@ -2,7 +2,7 @@
 
 Analisi delle vendite basata sul dataset *Global Superstore*, con l’obiettivo di supportare TrendyShoes S.r.l. nell’adozione di un approccio data-driven per ottimizzare vendite, margini e gestione clienti.
 
-Il progetto è stato interamente realizzato in **Excel**, utilizzando funzionalità avanzate di pulizia dati, analisi, indicatori statistici e tabelle pivot.
+Il progetto è stato interamente realizzato in **Excel**, utilizzando funzionalità avanzate di pulizia dati, analisi, indicatori statistici e tabelle pivot
 
 ---
 
