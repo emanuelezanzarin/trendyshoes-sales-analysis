@@ -68,7 +68,6 @@ Include:
 ---
 
 ## 👤 Autore
-**Emanuele Zanzarin**
-
-📧 Email: emanuelezanzarin@hotmail.com  
-🔗 LinkedIn: [(https://www.linkedin.com/in/emanuelezanzarin/)]
+**Emanuele Zanzarin**  
+📧 [Email](emanuelezanzarin@hotmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/emanuelezanzarin/)
